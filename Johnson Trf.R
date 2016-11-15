@@ -1,5 +1,4 @@
 
-##      CSC 
 ##      Johnson Distribution for Normality
 
 
