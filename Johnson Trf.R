@@ -1,4 +1,6 @@
 
+##      Johnson Transformation Using jtrans Package in R
+
 ##      Johnson Distribution for Normality
 
 
