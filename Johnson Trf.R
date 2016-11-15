@@ -4,7 +4,7 @@
 
 # A brief about Johnson Transfromation:
 
-# Johnson Transfromation is a technique used for the transfrmation of univariate non normal
+# Johnson Transfromation is a technique used for the transformation of univariate non normal
 # data into normality. Johnson family is a comprehensive distribution family that accomodates
 # many kinds of non-normal data. A bunch of transfromations, which are SB, SL and SU, are 
 # applied on the non normal data and gets back the transformed distribution. The p-values 
